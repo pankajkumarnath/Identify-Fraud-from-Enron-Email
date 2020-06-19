@@ -40,4 +40,4 @@ AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0, 
 * **my_dataset.pkl** : Pickle file generated after running _poi_id.py_ and contains the complete dataset with newly created features as well.
 * **my_classifier.pkl** : Pickle file generated after running _poi_id.py_ and contains the trained classifier.
 * **Refrences.txt** : Text file with all the resources referred during this project work.
-* **Response Questions.pdf** : Free response/answers to the questions as part of this project submission.
+* **Free-Response Questions.pdf** : Response/answers to the questions as part of this project submission.
