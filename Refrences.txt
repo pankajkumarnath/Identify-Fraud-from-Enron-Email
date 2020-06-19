@@ -1,0 +1,14 @@
+Videos,
+https://vimeo.com/391838074
+
+blog posts,
+https://medium.com/@williamkoehrsen/machine-learning-with-python-on-the-enron-dataset-8d71015be26d
+https://freesoft.dev/program/138393653
+https://towardsdatascience.com/comparing-different-classification-machine-learning-models-for-an-imbalanced-dataset-fdae1af3677f
+https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
+ 
+github repositories,
+https://github.com/DariaAlekseeva/Enron_Dataset
+https://github.com/missmariss31/enron
+https://github.com/MarcCollado/enron
+https://github.com/ianscottknight/Identifying-Persons-of-Interest-in-the-Enron-Scandal-with-Machine-Learning
