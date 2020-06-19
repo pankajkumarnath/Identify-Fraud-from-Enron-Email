@@ -44,6 +44,7 @@ def create_email_feature(df, f1, f2, nf):
             df[key][nf] = float(df[key][f1]) / float(df[key][f2])
 
     return df
+### End of My_functions
 
 ### Task 1: Select what features you'll use.
 ### features_list is a list of strings, each of which is a feature name.
