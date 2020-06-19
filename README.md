@@ -22,8 +22,16 @@ A ML classifier which uses the features provided to classify a person as poi (pe
 The tester function gives below result:
   
 AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0, n_estimators=50, random_state=42)
-Accuracy: 0.85087               Precision: 0.42418      Recall: 0.33150           F1: 0.37216                  F2: 0.34665
-Total predictions: 15000        True positives:  663    False positives:  900     False negatives: 1337        True negatives: 12100
+**Accuracy**: 0.85087
+**Precision**: 0.42418      
+**Recall**: 0.33150           
+**F1**: 0.37216                  
+**F2**: 0.34665
+**Total predictions**: 15000        
+**True positives**: 663    
+**False positives**: 900     
+**False negatives**: 1337        
+**True negatives**: 12100
   
   
 ## File List and Description
