@@ -12,7 +12,7 @@ my_features_list.pkl|v1.0|20th Jun, 2020|First submission
 my_dataset.pkl|v1.0|20th Jun, 2020|First submission
 my_classifier.pkl|v1.0|20th Jun, 2020|First submission
 Refrences.txt|v1.0|20th Jun, 2020|First submission
-Response Questions.pdf|v1.0|20th Jun, 2020|First submission
+Free-Response Questions.pdf|v1.0|20th Jun, 2020|First submission
   
 ## Summary  
   
