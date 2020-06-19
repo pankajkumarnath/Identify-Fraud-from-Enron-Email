@@ -13,6 +13,7 @@ my_dataset.pkl|v1.0|20th Jun, 2020|First submission
 my_classifier.pkl|v1.0|20th Jun, 2020|First submission
 Refrences.txt|v1.0|20th Jun, 2020|First submission
 Free-Response Questions.pdf|v1.0|20th Jun, 2020|First submission
+tester.py|v1.0|20th Jun, 2020|First submission
   
 ## Summary  
   
@@ -41,3 +42,4 @@ AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0, 
 * **my_classifier.pkl** : Pickle file generated after running _poi_id.py_ and contains the trained classifier.
 * **Refrences.txt** : Text file with all the resources referred during this project work.
 * **Free-Response Questions.pdf** : Response/answers to the questions as part of this project submission.
+* **tester.py** : This python script is provided by Udacity to check the performace of _poi_id.py_ script.
